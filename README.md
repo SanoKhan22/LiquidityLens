@@ -50,6 +50,18 @@ This project was built to solve a specific systems engineering challenge: **How 
 
 ---
 
+## 🏆 Competitive Advantage
+
+| Feature | 🔬 LiquidityLens | 🔶 Binance / Exchanges | ☁️ TradingView | 🗺️ Bookmap |
+| :--- | :---: | :---: | :---: | :---: |
+| **Platform** | **Mobile First** | Mobile & Desktop | Web & Desktop | Desktop Only |
+| **Order Book Visibility** | **Full Depth (Visual)** | Basic List (Numbers) | None (on mobile) | Full Depth (Visual) |
+| **Market Replay (DVR)** | **✅ Yes (5 min)** | ❌ No | ❌ No (Bar Replay only) | ✅ Yes (Paid) |
+| **Performance** | **60 FPS Native** | Standard UI | Web-based | High Performance |
+| **Price** | **Free / Open Source** | Free | Free / $15+ mo | $49 - $99 / mo |
+
+---
+
 ## 🏃‍♂️ How to Run
 
 ### Backend
