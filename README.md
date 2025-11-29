@@ -35,6 +35,18 @@ This project was built to solve a specific systems engineering challenge: **How 
 
 ## 🛠 Tech Stack
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+</div>
+
+<br />
+
 *   **Mobile**: Kotlin 2.0, Jetpack Compose, OkHttp (WebSockets), Android Canvas API.
 *   **Backend**: Java 21, Spring Boot 3.3, Virtual Threads.
 *   **Data Structure**: Circular Ring Buffer (O(1) access).
