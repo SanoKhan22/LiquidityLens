@@ -1,3 +1,9 @@
+# Documentation files
 docs/
+*.txt
+*.md
+!README.md
+
+# Shell scripts (except start-backend.sh)
 *.sh
 !start-backend.sh
