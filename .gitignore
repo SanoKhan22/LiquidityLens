@@ -1,0 +1,3 @@
+docs/
+*.sh
+!start-backend.sh
